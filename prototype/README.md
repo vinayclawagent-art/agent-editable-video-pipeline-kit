@@ -8,14 +8,14 @@ Turning video editing into transcript + JSON + code makes content production ins
 
 ## How to use
 
-Open `One-Minute Agent Video Trial Packet.md` and fill it during a real trial. Keep evidence links in the packet; do not mark validation complete until artifacts are attached.
+Open `One-Minute Agent Video Trial Packet.md` and fill it during a real trial. Then use `Video Evidence Attachment Manifest.md` to bundle the source metadata, transcript, JSON EDL, commands, render log, draft MP4, and verifier notes. Keep evidence links in the packet; do not mark validation complete until artifacts are attached.
 
 ## Latest improvement
 
-2026-06-12: Created the first fillable trial packet and linked it to the package, loop, and GitHub mirror.
+2026-06-12: Added a Video Evidence Attachment Manifest so the next one-minute edit trial has explicit EDL/command/render/verifier slots before any validation claim.
 
 ## Next iteration ideas
 
 - Run one real trial.
-- Add evidence attachments.
+- Fill the Video Evidence Attachment Manifest from one real short-clip trial.
 - Convert repeated steps into a script or installed skill only after proof.

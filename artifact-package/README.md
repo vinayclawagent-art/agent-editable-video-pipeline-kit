@@ -26,6 +26,7 @@ Turning video editing into transcript + JSON + code makes content production ins
 ## Generated artifacts
 
 - Prototype: [[Agent Editable Video Pipeline Kit/One-Minute Agent Video Trial Packet]]
+- Evidence attachment: [[Agent Editable Video Pipeline Kit/Video Evidence Attachment Manifest]]
 - Improvement loop: [[Agent Editable Video Pipeline Kit Loop]]
 - Infographic: [[Agent Editable Video Pipeline Workflow]]
 - Skill draft: `Artifacts/Skills/agent-editable-video-pipeline-kit/SKILL.md`
@@ -44,7 +45,7 @@ Drafted as a reusable procedure, but not promoted yet because it needs at least 
 
 ## Improvement backlog
 
-- Attach first real trial evidence.
+- Fill [[Agent Editable Video Pipeline Kit/Video Evidence Attachment Manifest]] with EDL, command, render, MP4, and verifier evidence from the first real short-clip trial.
 - Replace assumptions with logs, examples, or screenshots.
 - Decide whether to promote into a reusable skill/repo after proof.
 
@@ -55,3 +56,4 @@ https://github.com/vinayclawagent-art/agent-editable-video-pipeline-kit
 ## Change log
 
 - 2026-06-12: Created package, prototype artifact, GitHub repo mirror, and improvement loop.
+- 2026-06-12: Added a video evidence attachment manifest for the next real short-clip trial; template-ready, not validated.
