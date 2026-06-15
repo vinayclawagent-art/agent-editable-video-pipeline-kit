@@ -6,7 +6,7 @@ source_url: "https://x.com/trq212/status/2064826394589442448"
 score: 9
 artifact_tracks: [prototype, infographic, skill-draft, improvement-loop]
 improvement_cadence: nightly
-last_improved: 2026-06-12
+last_improved: 2026-06-15
 github_repo: "https://github.com/vinayclawagent-art/agent-editable-video-pipeline-kit"
 tags: [artifact-package, x-intel, ai-video, agent-workflows, remotion]
 ---
@@ -27,6 +27,7 @@ Turning video editing into transcript + JSON + code makes content production ins
 
 - Prototype: [[Agent Editable Video Pipeline Kit/One-Minute Agent Video Trial Packet]]
 - Evidence attachment: [[Agent Editable Video Pipeline Kit/Video Evidence Attachment Manifest]]
+- Decision gate: [[Agent Editable Video Pipeline Kit/Post-Trial Promotion Decision Card]]
 - Improvement loop: [[Agent Editable Video Pipeline Kit Loop]]
 - Infographic: [[Agent Editable Video Pipeline Workflow]]
 - Skill draft: `Artifacts/Skills/agent-editable-video-pipeline-kit/SKILL.md`
@@ -46,6 +47,7 @@ Drafted as a reusable procedure, but not promoted yet because it needs at least 
 ## Improvement backlog
 
 - Fill [[Agent Editable Video Pipeline Kit/Video Evidence Attachment Manifest]] with EDL, command, render, MP4, and verifier evidence from the first real short-clip trial.
+- Complete [[Agent Editable Video Pipeline Kit/Post-Trial Promotion Decision Card]] after the evidence bundle is attached.
 - Replace assumptions with logs, examples, or screenshots.
 - Decide whether to promote into a reusable skill/repo after proof.
 
@@ -57,3 +59,4 @@ https://github.com/vinayclawagent-art/agent-editable-video-pipeline-kit
 
 - 2026-06-12: Created package, prototype artifact, GitHub repo mirror, and improvement loop.
 - 2026-06-12: Added a video evidence attachment manifest for the next real short-clip trial; template-ready, not validated.
+- 2026-06-15: Added a post-trial promotion decision card; ready for the next real trial, not validated.
